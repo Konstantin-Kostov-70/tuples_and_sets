@@ -1,2 +1,4 @@
 Hello test
-conflict 2
+conflict test 1 + conflict 2 = happy
+
+
